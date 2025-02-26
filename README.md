@@ -1,4 +1,4 @@
-```md
+
 # Distance Calculation using Google Maps API in R
 
 ## Project Overview
@@ -86,5 +86,3 @@ Google Maps API has quota limits and billing considerations:
 ## License
 This project is open-source under the MIT License. Contributions and modifications are welcome.
 ```
-
-This is a **fully formatted and professional README** that you can **copy and paste directly into your GitHub repository**. Let me know if any modifications are needed.
